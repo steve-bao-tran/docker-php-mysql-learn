@@ -1,4 +1,4 @@
-./logs/nginx/*
+./logs/nginx/*.*
 ./database/mongodb/db/*
 ./database/mongodb/dev.archive/*
 ./database/mongodb/production/*
