@@ -1,1 +1,5 @@
-./logs/ngingx/*
+./logs/nginx/*
+./database/mongodb/db/*
+./database/mongodb/dev.archive/*
+./database/mongodb/production/*
+./database/mysql/*
